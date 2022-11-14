@@ -1,0 +1,4 @@
+model\AppConfig.class
+model\EmployeeService.class
+model\AddressService.class
+model\InfosysSpringBootApplication.class
